@@ -163,8 +163,8 @@ a:after {
 }
 
 .name {
-	font-weight: bold;
-	color: white;
+	font-weight: bold !important;
+	font-color: white !important;
 }
 
 #mugshot {
