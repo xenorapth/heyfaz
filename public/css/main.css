@@ -162,7 +162,7 @@ a:after {
 	vertical-align: middle;
 }
 
-#intro-text h1 {
+.name {
 	font-weight: bold;
 	color: white;
 }
